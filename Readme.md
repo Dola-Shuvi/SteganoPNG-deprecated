@@ -4,6 +4,12 @@ SteganoPNG
 ![](https://img.shields.io/badge/platform-linux--64%20%7C%20win--64-lightgray)
 =================
 
+# **⚠️ Notice of archival ⚠️**
+### This project is no longer maintained and will be moved to archive mode. The repository link will change during this process.
+### **A full rewrite is currently taking place and will replace this project in the future.**
+
+-----------
+
 C++ program based on steganographical methods to hide files in PNG images using the Least Significant Bit technique.
 
 SteganoPNG uses the most basic method which is the least significant bit. A pixel in a PNG image is composed of a red, green, blue and alpha channel encoded in one byte each.
